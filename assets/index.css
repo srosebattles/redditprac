@@ -1,0 +1,30 @@
+*{
+  font-family: cursive;
+  overflow-x: hidden;
+}
+
+img {
+  border-radius: 40px;
+  border: 1px solid purple;
+}
+
+div a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.5rem;
+}
+
+div {
+  background-color: lightblue;
+  color: whitesmoke;
+}
+
+.searchdiv {
+  text-align: right;
+}
+
+.searchy {
+  width: 40rem;
+  height: 5rem;
+  font-size: 2rem;
+}
